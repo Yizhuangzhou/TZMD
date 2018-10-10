@@ -13,7 +13,7 @@ perl NormalizedZvalue.pl [GenomeInfo file] [output]
 
  Assembly_assession\tspecies_taxid\torganism_name\tinfraspecific_name\tassembly_level\tChromosome size\tfile for Chromosome\tfile for Plasmid
  
-Note: file for Chromosome: the file containing sequences in fasta format.
+Note: file for Chromosome,the file containing sequences in fasta format.
   
 2. Calculate TZMDs and TETRAs
 
