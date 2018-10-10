@@ -11,9 +11,9 @@ perl NormalizedZvalue.pl [GenomeInfo file] [output]
 
 [GenomeInfo file] has 8 fields, including:
 
- Assembly_assession<TAB>species_taxid<TAB>organism_name<TAB>infraspecific_name<TAB>assembly_level<TAB>Chromosome size<TAB>file for Chromosome<TAB>file for Plasmid
+ Assembly_assession\tspecies_taxid\torganism_name\tinfraspecific_name\tassembly_level\tChromosome size\tfile for Chromosome\tfile for Plasmid
  
-Note: TAB,"\t"
+Note: file for Chromosome: the file containing sequences in fasta format.
   
 2. Calculate TZMDs and TETRAs
 
