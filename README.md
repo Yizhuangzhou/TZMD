@@ -21,5 +21,8 @@ Note: TAB,"\t"
  
  perl TETRA.pl [Query NormalizedZvalue][Ref NormalizedZvalue][output]
 
+## Note ##
+All scripts are in Bin directory, and all tested data are in Data directory.
+
 ## Support ##
 If you are having issues, please email me via zhouyizhuang3@163.com
