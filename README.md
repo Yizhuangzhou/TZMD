@@ -3,6 +3,7 @@
  
  ## Please Cite ##
 If you use TZMD in your publication, please cite:
+
 Zhou, Y., Zhang, W., Wu, H. et al. A high-resolution genomic composition-based method with the ability to distinguish similar bacterial organisms. BMC Genomics 20, 754 (2019) doi:10.1186/s12864-019-6119-x
 
 ## Usage ##
