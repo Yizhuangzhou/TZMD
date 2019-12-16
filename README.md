@@ -1,8 +1,9 @@
 # TZMD v1.0
- The "etranucleotide-derived Z-value Manhattan Distance” (TZMD) approach profiles genomic composition with high resolution, which can distinguish bacteria at even strain level. 
+ The "tranucleotide-derived Z-value Manhattan Distance” (TZMD) approach profiles genomic composition with high resolution, which can distinguish bacteria at even strain level. 
  
  ## Please Cite ##
-If you use SeedBin in your publication, please cite:
+If you use TZMD in your publication, please cite:
+Zhou, Y., Zhang, W., Wu, H. et al. A high-resolution genomic composition-based method with the ability to distinguish similar bacterial organisms. BMC Genomics 20, 754 (2019) doi:10.1186/s12864-019-6119-x
 
 ## Usage ##
 1. Calculate Normalized Zvalues for query and reference genomes
