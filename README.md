@@ -24,7 +24,7 @@ Note: file for Chromosome,the file containing sequences in fasta format.
  perl TETRA.pl [Query NormalizedZvalue][Ref NormalizedZvalue][output]
 
 ## Note ##
-All scripts are in Bin directory, and all tested data are in Data directory. Besides, an example is placed in Data/Test/.
+All scripts are in Bin directory, and all tested data are in Data directory. Besides, an example is placed in Data/Test/ and you can go into this directory to run scripts (working direcotry should be Data/Test/).
 
 ## Support ##
 If you are having issues, please email me via zhouyizhuang3@163.com
